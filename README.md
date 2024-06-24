@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rucha Chotalia</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center"> I am a Master's student in Computer Software Systems from Northeastern University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchachotalia&label=Profile%20views&color=0e75b6&style=flat" alt="ruchachotalia" /> </p>
 
-- 🔭 I’m currently working on *Generative AI & Prompt Engineering*
+- 🔭 I’m currently working on *Generative AI chatbots*
 
 - 🌱 I’m currently learning *Prompt Engineering & Agile Software Development*
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about *Artificial Intelligence, Python, Snowflake, AWS*
 
 - 📫 How to reach me *chotalia.r@northeastern.edu*
-
-- ⚡ Fun fact *I think I am funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
